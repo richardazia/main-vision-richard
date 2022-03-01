@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+	xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule"
+	xmlns:dtvmedia="http://participatoryculture.org/RSSModules/dtv/1.0">
+
+	<channel><title>Main-Vision.com video section</title>
+			<description>This is where all the videos are kept</description>
+			<link>http://www.main-vision.com/richard/video/</link>
+			<dtvmedia:libraryLink>http://www.main-vision.com/richard/video/</dtvmedia:libraryLink>
+			<pubDate>Sun, 18 Feb 2007 01:56:03 +0100</pubDate>
+			<generator>Broadcast Machine version 23</generator>
+			<atom:link 
+				 rel="self" 
+				 type="application/rss+xml" 
+				 title="Main-Vision.com video section" 
+				 href="http://www.main-vision.com/richard/video/feed/ALL" 
+				 xmlns:atom="http://www.w3.org/2005/Atom" />
+				 <item><title>The Silent Disco</title>
+				<link>http://www.main-vision.com/richard/video/video/1/2cfcd7adb7a3e49a8b3ff7b254e57042e4d4ddf4</link>
+				<guid isPermaLink="false">2cfcd7adb7a3e49a8b3ff7b254e57042e4d4ddf4</guid><description>On the 10th of February 2007 two to three hundred people gathered together for a Silent Disco Flash Mob.
+
+Onlookers may have been confused but not those participating.</description>
+<enclosure url="http://www.main-vision.com/richard/video/dl/1/2cfcd7adb7a3e49a8b3ff7b254e57042e4d4ddf4.m4v" type="video/unknown"  length="33417720" />
+				<pubDate>Tue, 13 Feb 2007 00:04:00 +0100</pubDate>
+<media:thumbnail url="http://www.main-vision.com/richard/video/thumbnails/0084ddb9f7ff36d65b24ce5702d6e9eb.tiff" />
+</item>
+<item><title>10 Years of the World Wide Web</title>
+				<link>http://www.main-vision.com/richard/video/video/1/34406551d2599159e1a9ecd45298bb02edc3a878</link>
+				<guid isPermaLink="false">34406551d2599159e1a9ecd45298bb02edc3a878</guid><description>The first time my name is in the lower third of screen</description>
+<enclosure url="http://www.main-vision.com/richard/video/dl/1/34406551d2599159e1a9ecd45298bb02edc3a878.php" type="video/unknown"  length="1598710" />
+				<pubDate>Tue, 13 Feb 2007 00:14:00 +0100</pubDate>
+</item>
+<item><title>Geneva Lake Parade 2002</title>
+				<link>http://www.main-vision.com/richard/video/video/1/3dc073d5498bbd778f004efa38b96e57a68aabdd</link>
+				<guid isPermaLink="false">3dc073d5498bbd778f004efa38b96e57a68aabdd</guid><description>The second in the Lake Parade series</description>
+<enclosure url="http://www.main-vision.com/richard/video/dl/1/3dc073d5498bbd778f004efa38b96e57a68aabdd.mov" type="video/quicktime"  length="2427471" />
+				<pubDate>Tue, 13 Feb 2007 00:16:00 +0100</pubDate>
+</item>
+<item><title>Magician Audition</title>
+				<link>http://www.main-vision.com/richard/video/video/1/768d0aa091c87fb5c4d1a7f0016e3447fc03d7c4</link>
+				<guid isPermaLink="false">768d0aa091c87fb5c4d1a7f0016e3447fc03d7c4</guid><description>My final year Multicamera project. I was camera operator and editor</description>
+<enclosure url="http://www.main-vision.com/richard/video/dl/1/768d0aa091c87fb5c4d1a7f0016e3447fc03d7c4.mp4" type="video/mp4"  length="1" />
+				<pubDate>Tue, 13 Feb 2007 00:10:00 +0100</pubDate>
+</item>
+<item><title>The trailer to Ragweek 2007</title>
+				<link>http://www.main-vision.com/richard/video/video/1/b68be7805b0cee41d9aaa720f4ffe20888bac130</link>
+				<guid isPermaLink="false">b68be7805b0cee41d9aaa720f4ffe20888bac130</guid><description>The trailer to Ragweek 2007</description>
+<enclosure url="http://www.main-vision.com/richard/video/dl/1/b68be7805b0cee41d9aaa720f4ffe20888bac130.mov" type="video/quicktime"  length="6207567" />
+				<pubDate>Tue, 13 Feb 2007 00:09:00 +0100</pubDate>
+</item>
+<item><title>The Myspace Documentary</title>
+				<link>http://www.main-vision.com/richard/video/video/1/bdbbca16484d2a80620d514c4df5ea34ddeacfb2</link>
+				<guid isPermaLink="false">bdbbca16484d2a80620d514c4df5ea34ddeacfb2</guid><description>This is a myspace documentary, completed as a student at the University of Westminster in 2006.</description>
+<enclosure url="http://www.main-vision.com/richard/video/dl/1/bdbbca16484d2a80620d514c4df5ea34ddeacfb2.mov" type="video/quicktime"  length="20024610" />
+				<pubDate>Tue, 13 Feb 2007 00:12:00 +0100</pubDate>
+</item>
+<item><title>Cambrioleur</title>
+				<link>http://www.main-vision.com/richard/video/video/1/c75af36c11b42095a002d1df62d975f965af3006</link>
+				<guid isPermaLink="false">c75af36c11b42095a002d1df62d975f965af3006</guid><description>An excercise in continuity shot whilst in Weymouth with some friends</description>
+<enclosure url="http://www.main-vision.com/richard/video/dl/1/c75af36c11b42095a002d1df62d975f965af3006.wmv" type="video/unknown"  length="1082376" />
+				<pubDate>Sun, 18 Feb 2007 01:55:00 +0100</pubDate>
+</item>
+<item><title>Me at Paleo</title>
+				<link>http://www.main-vision.com/richard/video/video/1/cf2840f8de35cd7e9630397fc43b082727536874</link>
+				<guid isPermaLink="false">cf2840f8de35cd7e9630397fc43b082727536874</guid><description>It&#039;s the first day of paleo and already we see me on the news in the first shot.</description>
+<enclosure url="http://www.main-vision.com/richard/video/dl/1/cf2840f8de35cd7e9630397fc43b082727536874.php" type="video/quicktime"  length="699238" />
+				<pubDate>Tue, 13 Feb 2007 00:13:00 +0100</pubDate>
+</item>
+
+<image>
+<title>Main-Vision.com video section</title>
+<url>http://</url>
+<link>http://www.main-vision.com/richard/video/</link>
+</image></channel></rss>

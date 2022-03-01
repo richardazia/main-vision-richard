@@ -1,0 +1,34 @@
+// ----------------------------------------------------------------------
+// MD-Pro Content Management System
+// Copyright (C) 2003 by the MaxDev Development Team.
+// (Link: http://www.maxdev.com/)http://www.maxdev.com/
+// ----------------------------------------------------------------------
+// Based on:
+// Postnuke Content Management System - http://www.postnuke.com 
+// PHP-NUKE Web Portal System - http://www.phpnuke.org 
+// Thatware - http://www.thatware.org
+//----------------------------------------------------------------------
+// Portions of this code were developed by members of the MaxDev Development Team for:
+// Envolution 1.25 FLS - http://www.envolution.com.
+// ----------------------------------------------------------------------
+// LICENSE
+//
+// This program is free software; you can redistribute it and/or
+// modify it under the terms of the GNU General Public License (GPL)
+// as published by the Free Software Foundation; either version 2
+// of the License, or (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// To read the license please visit http://www.gnu.org/copyleft/gpl.html
+// ----------------------------------------------------------------------
+// Original Author of this file: Kenneth Lee (http://www.nexgear.com)
+// Adapted to Post Nuke by ACM Cubed (http://www.acm3.com)
+// Adapted to Post Nuke v7.1x and 
+//      renamed to "daily_archive" by Kayak (kayak@newkurkino.ru)
+// Purpose of this file: This module is used to display all archived
+//                       stories from your site in a monthly fashion.
+// ----------------------------------------------------------------------

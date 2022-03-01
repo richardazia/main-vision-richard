@@ -1,0 +1,1986 @@
+unlock files - Resource id #125
+loaded files: 8 items
+getOne files bdbbca16484d2a80620d514c4df5ea34ddeacfb2 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #143
+Resource id #143
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #143
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+lockResource: users
+lock users - Resource id #69
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #69
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #69
+loaded users: 1 items
+unlock users - not locked
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files 2cfcd7adb7a3e49a8b3ff7b254e57042e4d4ddf4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files 2cfcd7adb7a3e49a8b3ff7b254e57042e4d4ddf4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files 2cfcd7adb7a3e49a8b3ff7b254e57042e4d4ddf4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #132
+Resource id #132
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #132
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #71
+Resource id #71
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #71
+loaded channels: 1 items
+getAllFiles
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #82
+Resource id #82
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #82
+loaded files: 8 items
+getOne files 2cfcd7adb7a3e49a8b3ff7b254e57042e4d4ddf4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #93
+Resource id #93
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #93
+loaded files: 8 items
+getOne files b68be7805b0cee41d9aaa720f4ffe20888bac130 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #105
+Resource id #105
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #105
+loaded files: 8 items
+getOne files 768d0aa091c87fb5c4d1a7f0016e3447fc03d7c4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #116
+Resource id #116
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #116
+loaded files: 8 items
+getOne files bdbbca16484d2a80620d514c4df5ea34ddeacfb2 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #127
+Resource id #127
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #127
+loaded files: 8 items
+getOne files cf2840f8de35cd7e9630397fc43b082727536874 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #138
+Resource id #138
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #138
+loaded files: 8 items
+getOne files 34406551d2599159e1a9ecd45298bb02edc3a878 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #149
+Resource id #149
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #149
+loaded files: 8 items
+getOne files 3dc073d5498bbd778f004efa38b96e57a68aabdd 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #160
+Resource id #160
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #160
+loaded files: 8 items
+getOne files c75af36c11b42095a002d1df62d975f965af3006 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #171
+Resource id #171
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #171
+loaded files: 8 items
+lockResource: users
+lock users - Resource id #179
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #179
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #179
+loaded users: 1 items
+unlock users - not locked
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files 2cfcd7adb7a3e49a8b3ff7b254e57042e4d4ddf4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files 2cfcd7adb7a3e49a8b3ff7b254e57042e4d4ddf4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files 2cfcd7adb7a3e49a8b3ff7b254e57042e4d4ddf4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #132
+Resource id #132
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #132
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files 34406551d2599159e1a9ecd45298bb02edc3a878 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files 34406551d2599159e1a9ecd45298bb02edc3a878 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files 34406551d2599159e1a9ecd45298bb02edc3a878 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #133
+Resource id #133
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #133
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files 3dc073d5498bbd778f004efa38b96e57a68aabdd 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files 3dc073d5498bbd778f004efa38b96e57a68aabdd 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files 3dc073d5498bbd778f004efa38b96e57a68aabdd 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #132
+Resource id #132
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #132
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files 768d0aa091c87fb5c4d1a7f0016e3447fc03d7c4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files 768d0aa091c87fb5c4d1a7f0016e3447fc03d7c4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files 768d0aa091c87fb5c4d1a7f0016e3447fc03d7c4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #132
+Resource id #132
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #132
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #71
+Resource id #71
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #71
+loaded channels: 1 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files cf2840f8de35cd7e9630397fc43b082727536874 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files cf2840f8de35cd7e9630397fc43b082727536874 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files cf2840f8de35cd7e9630397fc43b082727536874 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #132
+Resource id #132
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #132
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files b68be7805b0cee41d9aaa720f4ffe20888bac130 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files b68be7805b0cee41d9aaa720f4ffe20888bac130 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files b68be7805b0cee41d9aaa720f4ffe20888bac130 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #133
+Resource id #133
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #133
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files bdbbca16484d2a80620d514c4df5ea34ddeacfb2 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files bdbbca16484d2a80620d514c4df5ea34ddeacfb2 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files bdbbca16484d2a80620d514c4df5ea34ddeacfb2 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #132
+Resource id #132
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #132
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files c75af36c11b42095a002d1df62d975f965af3006 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files c75af36c11b42095a002d1df62d975f965af3006 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files c75af36c11b42095a002d1df62d975f965af3006 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #132
+Resource id #132
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #132
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files cf2840f8de35cd7e9630397fc43b082727536874 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files cf2840f8de35cd7e9630397fc43b082727536874 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files cf2840f8de35cd7e9630397fc43b082727536874 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #132
+Resource id #132
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #132
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #71
+Resource id #71
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #71
+loaded channels: 1 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files 34406551d2599159e1a9ecd45298bb02edc3a878 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files 34406551d2599159e1a9ecd45298bb02edc3a878 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files 34406551d2599159e1a9ecd45298bb02edc3a878 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #133
+Resource id #133
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #133
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files 3dc073d5498bbd778f004efa38b96e57a68aabdd 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files 3dc073d5498bbd778f004efa38b96e57a68aabdd 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files 3dc073d5498bbd778f004efa38b96e57a68aabdd 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #132
+Resource id #132
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #132
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+getOne files 768d0aa091c87fb5c4d1a7f0016e3447fc03d7c4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #72
+Resource id #72
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #72
+loaded files: 8 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #83
+Resource id #83
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #83
+loaded channels: 1 items
+getOne channels 1 
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #94
+Resource id #94
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #94
+loaded channels: 1 items
+lockResource: users
+lock users - Resource id #102
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #102
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #102
+loaded users: 1 items
+unlock users - not locked
+getOne files 768d0aa091c87fb5c4d1a7f0016e3447fc03d7c4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #119
+Resource id #119
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #119
+loaded files: 8 items
+getOne files 768d0aa091c87fb5c4d1a7f0016e3447fc03d7c4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #132
+Resource id #132
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #132
+loaded files: 8 items
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #71
+Resource id #71
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #71
+loaded channels: 1 items
+getAllFiles
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #82
+Resource id #82
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #82
+loaded files: 8 items
+getOne files 2cfcd7adb7a3e49a8b3ff7b254e57042e4d4ddf4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #93
+Resource id #93
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #93
+loaded files: 8 items
+getOne files b68be7805b0cee41d9aaa720f4ffe20888bac130 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #105
+Resource id #105
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #105
+loaded files: 8 items
+getOne files 768d0aa091c87fb5c4d1a7f0016e3447fc03d7c4 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #116
+Resource id #116
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #116
+loaded files: 8 items
+getOne files bdbbca16484d2a80620d514c4df5ea34ddeacfb2 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #127
+Resource id #127
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #127
+loaded files: 8 items
+getOne files cf2840f8de35cd7e9630397fc43b082727536874 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #138
+Resource id #138
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #138
+loaded files: 8 items
+getOne files 34406551d2599159e1a9ecd45298bb02edc3a878 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #149
+Resource id #149
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #149
+loaded files: 8 items
+getOne files 3dc073d5498bbd778f004efa38b96e57a68aabdd 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #160
+Resource id #160
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #160
+loaded files: 8 items
+getOne files c75af36c11b42095a002d1df62d975f965af3006 
+flat getAllLock files
+flat getAllLock: get handle for files
+lockResource: files
+lock files - Resource id #171
+Resource id #171
+Don't hold lock on files
+unlocking handle for files
+unlock files - Resource id #171
+loaded files: 8 items
+lockResource: users
+lock users - Resource id #179
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #179
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #179
+loaded users: 1 items
+unlock users - not locked
+DataStore constructor
+Trying MySQL
+mysql setup
+MySQLDataLayer/setup failed
+couldn't attach to mysql
+forced to use flat file
+Register hooks
+flat getAllLock instance
+flat getAllLock: get handle for instance
+lockResource: instance
+lock instance - Resource id #26
+Resource id #26
+Don't hold lock on instance
+unlocking handle for instance
+unlock instance - Resource id #26
+loaded instance: 10 items
+saveAll: instance  - 10 items
+lockResource: instance
+lock instance - Resource id #35
+unlock instance - Resource id #35
+flat getAllLock channels
+flat getAllLock: get handle for channels
+lockResource: channels
+lock channels - Resource id #41
+Resource id #41
+Don't hold lock on channels
+unlocking handle for channels
+unlock channels - Resource id #41
+loaded channels: 1 items
+seeder->setup()
+seeder: bt not installed yet, lets try
+seeder: error in unzipBT
+lockResource: users
+lock users - Resource id #52
+get users
+flat getAllLock users
+flat getAllLock: get handle for users
+lockResource: users
+lockResource: users already locked, return handle
+Resource id #52
+Don't hold lock on users
+unlocking handle for users
+unlock users - Resource id #52
+loaded users: 1 items
+unlock users - not locked

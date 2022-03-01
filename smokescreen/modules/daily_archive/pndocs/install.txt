@@ -1,0 +1,10 @@
+// ----------------------------------------------------------------------
+// Installation:
+// ----------------------------------------------------------------------
+//
+// Simply place this module into your module directory of PostNuke install
+// and go to the "Modules" admin section. Then select "Install" and 
+// "Actrivate" for this "Archives" module name.
+// If you want to use "News calendar" block go to the "Block" admin section
+// and create new block "daily_archive/News calendar"
+// ----------------------------------------------------------------------

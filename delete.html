@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Untitled</title>
+</head>
+
+<body>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+// original code by Bill Trefzger 12/12/96
+function go(){
+if (document.selecter.select1.options[document.selecter.select1.selectedIndex].value != "none") {
+location = document.selecter.select1.options[document.selecter.select1.selectedIndex].value
+		}
+	}
+//-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document.write('<form name="selecter"><select name="select1">');
+document.write('<option value=none>Personal');
+document.write('<option value=none>--------------------');
+document.write('<option value="about_me.htm">About me');
+document.write('<option value="cv.htm">My CV');
+document.write('</select>');
+document.write('<input type="button" value="Go" onclick="go()">');
+document.write('</form>');
+// end hiding contents -->
+</script>
+
+</body>
+</html>

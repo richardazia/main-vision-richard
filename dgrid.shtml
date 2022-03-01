@@ -1,0 +1,51 @@
+<html>
+<!-- this part of my website was on the school newspaper and has been moved to my own domain as I was the creator of these different texts.-->
+<head>
+<title>Surfing the World Wide Waves - The Eurodatagrid project</title>
+<Meta name="Author" content="Richard Azia">
+<Meta name="Publisher" content="05/10/2003">
+<Meta name="Copyright" content="Richard Azia 2003">
+<Meta name="Revisit-After" content="5 days">
+<Meta HTTP-EQUIV="Expires" content="none">
+<Meta name="Keywords" content="Online community, Eurodatagrid">
+<Meta name="Pagetopic" content="information technology">
+<Meta name="Pagetype" content="">
+<Meta name="Audience" content=" All">
+<Meta name="Robots" content="INDEX,FOLLOW">
+<Meta name="Content-Language" content="English"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="surging.css">
+</head><body>
+<h1>Surfing the World Wide Waves (WWW)</h1>
+        <h2>The Eurodatagrid project</h2>
+        <p>The Euro datagrid project is an idea being developed at the CERN (European 
+          Centre for Nuclear Research) to find a method of sharing computer power. 
+          Within an air conditioned room at the CERN in Geneva you will find a 
+          room full of computers on shelves with several machines but shelf with 
+          around 1000 individual machines. The idea behind the datagrid project 
+          is shared computer power across a multitude of machines. In other words 
+          if you are working on some modelling, for example to see what the weather 
+          will by like in StMoritz over the next few days. You make a request 
+          over the Internet for a certain amount of computer power and send the 
+          data along fibre optic links towards the CERN where an allocated number 
+          of machines will help crunch the numbers to give you results about possible 
+          weather patterns. </p>
+        The idea is particularly interesting because in sharing the task among 
+        many computers a cheap super computer is working but rather than having 
+        a single machine which costs hundreds of thousands of dollars to rent 
+        per day you have many more affordable part time machines doing the work. 
+        <p> Articles by <a href="mailto:rafaleaz@geocities.com?subject=&quot;World Wide Waves&quot;">Richard Azia</a> unless otherwise indicated. </p>
+<h3> Other sections </h3>
+<center>
+<a href="about_me.htm"></a> <a href="cv.htm">[My CV]</a> <a href="http://uk.calendar.yahoo.com/shadprof"> 
+          [My calendar]</a> <a href="comp.htm">[Video compression]</a>  <a href="cs.htm">Cinema studies</a> <a href="comp.htm">[Video 
+          compression]</a> <a href="surfing.htm">[Surfing the World Wide Waves]</a> 
+          <a href="environm.htm">[Environmental Systems]</a> <a href="fs.htm">[Browse 
+          through this DVD collection]</a> <a href="whats.htm">[What's new to 
+          the site]</a> <a href="oldindex.htm">[The previous main page]</a> <a href="abweb.htm">[About 
+          this website]</a>[<a href="http://www.instantmessageboards.com/forums/rafaleaz">Discussion 
+                Forum</a>]
+      <p><a href="mailto:richard@main-vision.com">Contact me</a>
+</center>
+</body>
+</html>

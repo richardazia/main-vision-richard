@@ -1,0 +1,76 @@
+<html>
+<!-- this part of my website was on the school newspaper and has been moved to my own domain as I was the creator of these different texts.-->
+<head>
+<title>Surfing The World Wide Waves, a weekly article - Computers playing with our emotions</title>
+<Meta name="Author" content="Richard Azia">
+<Meta name="Publisher" content="18/10/2002">
+<Meta name="Copyright" content="Richard Azia 2002">
+<Meta name="Revisit-After" content="5 days">
+<Meta HTTP-EQUIV="Expires" content="none">
+<Meta name="Keywords" content="The importance of a good title, increased surfing speed, hotmail using an e-mail client, e-mail security, spam, geocities, web portal, information reliability, ICQ, Online communities">
+<Meta name="Description" content="A few articles about the World Wide WEb's technologies">
+<Meta name="Pagetopic" content="information technology">
+<Meta name="Pagetype" content="student">
+<Meta name="Audience" content=" All">
+<Meta name="Robots" content="INDEX,FOLLOW">
+<Meta name="Content-Language" content="English"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="surging.css">
+</head><body>
+        <h1>Surfing the World Wide Waves (WWW)</h1>
+        <h2>Computers playing with our Emotions</h2>
+        <h3>Premiere 6.5, windows 98 and the DV200</h3>
+        <p>How many of us have had the misfortune of having work 
+          and losing it? Spending a lot of time video editing I have become used 
+          to having problems and finding solutions to those problems. Quite recently 
+          a new card has been isntalled on my computer so that I may use more 
+          hard drives at once. The problem is that due to the new card being put 
+          into the computer it kept crashing and something had to be done about 
+          that. The operating system was re-installed and with the re-installation 
+          there has been a problem with the codecs to the best of my understanding. 
+          There are now a few hours of de-bugging to understand what the problem 
+          is, whether hardware or software. </p>
+        <p>The emotional toll for that type of problem is quite high 
+          as you may imagine. As is commonly known video is to some extent an 
+          art form and when you finish an edit and really enjoy it it's always 
+          best to save a backup whether on the hard disk as an avi file or as 
+          an other file format as I have done. Quite a few times as a video production 
+          student I have seen student's work being lost either through negligence 
+          on their part, incompatibilities between different versions of the same 
+          program, changes in hardware within the computer, hard disk crashes 
+          and finally operating system re-installations. </p>
+        <h3>Front page versions</h3>
+        <p>Whilst working with front 
+          page for webmastering many times I have found that the software has 
+          played with my emotions in a number of ways. Firstly every time that 
+          you create a page within frontpage 2000 it contributes a huge amount 
+          of code which is not essential for the page to display. Furthermore 
+          to this it is going against the w3c organisation regulations whereby 
+          it may not display properly in all browsers. </p>
+        <p>The navigation structure within 
+          frontpage 2000 is also quite buggy because when a project is exported 
+          from one machine to another it is lost and if you work on your site 
+          from the web the site is still not behaving the way it should and navigation 
+          structures are occasionaly lost completely and the joyous activity of 
+          building it back to it's original state may begin.</p>
+        <p>Finally the part which I found 
+          was most dissapointing with Frontpage is the amount of extra files it 
+          needs to run. If those files could be removed then the website would 
+          be far smaller on the server and only the necessary files for the site's 
+          proper functioning would be present.</p>
+        <p>As I got tired of that problem I've experimented with 1stpage 2000 
+          which is an excellent free software. </p>
+        <p>Hope to add more with time, if you'd like to share your 
+          own misfortunes then don't hesitate to <a href="mailto:richard@main-vision.com?subject=%22contribute%20to%20surfing%20pages%22">contact 
+          me</a></p>
+        <p>Articles by <a href="mailto:rafaleaz@geocities.com?subject=%22World%20Wide%20Waves%22">Richard 
+          Azia</a> unless otherwise indicated. </p>
+<h3> Other sections </h3>
+          <a href="about_me.htm"></a> <a href="cv.htm">[My CV]</a> <a href="http://uk.calendar.yahoo.com/shadprof"> 
+          [My calendar]</a> <a href="comp.htm">[Video compression]</a>  <a href="cs.htm">Cinema studies</a> <a href="comp.htm">[Video 
+          compression]</a> <a href="surfing.htm">[Surfing the World Wide Waves]</a> 
+          <a href="environm.htm">[Environmental Systems]</a> <a href="fs.htm">[Browse 
+          through this DVD collection]</a> <a href="whats.htm">[What's new to 
+          the site]</a> <a href="oldindex.htm">[The previous main page]</a> <a href="abweb.htm">[About this website]</a>
+</body>
+</html>

@@ -1,0 +1,73 @@
+<html>
+<!-- this part of my website was on the school newspaper and has been moved to my own domain as I was the creator of these different texts.-->
+
+<head>
+<title>Surfing The World Wide Waves, a weekly article</title>
+<title>1st Page 2000</title>
+<Meta name="Author" content="Richard Azia">
+<Meta name="Publisher" content="18/10/2002">
+<Meta name="Copyright" content="Richard Azia 2002">
+<Meta name="Revisit-After" content="5 days">
+<Meta HTTP-EQUIV="Expires" content="none">
+<Meta name="Keywords" content="The importance of a good title, increased surfing speed, hotmail using an e-mail client, e-mail security, spam, geocities, web portal, information reliability, ICQ, Online communities">
+<Meta name="Description" content="A few articles about the World Wide WEb's technologies">
+<Meta name="Pagetopic" content="information technology">
+<Meta name="Pagetype" content="student">
+<Meta name="Audience" content=" All">
+<Meta name="Robots" content="INDEX,FOLLOW">
+<Meta name="Content-Language" content="English"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="surging.css">
+</head>
+<body>
+<h1>Surfing The World Wide Waves, a weekly article</h1>
+<h2>1st Page 2000</h2>
+<p>One of the most powerful free html editing softwares I have found is 
+              first page 2000 by <a href="http://www.evrsoft.com">EVRsoft</a>. 
+              If you're tired of using frontpage which always loses your navigation 
+              and adds so many extra tags why not begin experimenting with 1st 
+              page 2000. It is very intuitive to use and although it may be a 
+              little bit of a challenge dealing with the html code it soon becomes 
+              habit.</p>
+            <p>It has four modes, easy, expert, hardcore and normal. Although at the 
+              beginning you may use the easy mode after refreshing your coding 
+              memory you can use the other modes depending on your level of comfort. 
+              Interesting features are the code assistants for when creating tables, 
+              asp scripts and more. A feature which I find quite useful is the 
+              feature for setting up images to display properly with an alternative 
+              text and more.</p>
+            <p>One of 
+              the strong points about the software is that you can work on several 
+              pages at once. This speeds up the process when creating navigation 
+              within the site. If you're used to coding then using the server 
+              side includes (SSI) are very interesting when creating the site 
+              navigation but that is another topic. In continuing on this it means 
+              that if you've decided that you want to change code but haven't 
+              used the SSI yet then it is one of the best softwares to do so. 
+              I particularly enjoyed using this software because as a piece 
+              of freeware it is very powerfull and you are in full control of 
+              the layout of your site. </p>
+            <p>Although this software has many good sides one of 
+              the drawbacks which I have encountered is the lack of a wysiwyg 
+              option to edit directly onto the page itself. It would make certain 
+              tasks more simple, for example when there is an error in code being 
+              taken straight there is more interesting as in Dreamweaver. Another 
+              element which could be improved is the ability to upload directly 
+              to your server rather than having to use a second program. </p>
+            <p>Apart from the software side the <a href="http://developers.eversoft.com">website</a> 
+              associated with this product is full of useful tools for webmasters 
+              such as PHP, ASP, style sheets and many other more specific options. 
+            </p>
+<p>Articles by <a href="mailto:richard@main-vision.com?subject=&quot;World Wide Waves&quot;">Richard 
+          Azia</a> unless otherwise indicated. </p>
+<center>
+<h3> Other sections </h3>
+          <a href="about_me.htm"></a> <a href="cv.htm">[My CV]</a> <a href="http://uk.calendar.yahoo.com/shadprof"> 
+          [My calendar]</a> <a href="comp.htm">[Video compression]</a>  <a href="cs.htm">Cinema studies</a> <a href="comp.htm">[Video 
+          compression]</a> <a href="surfing.htm">[Surfing the World Wide Waves]</a> 
+          <a href="environm.htm">[Environmental Systems]</a> <a href="fs.htm">[Browse 
+          through this DVD collection]</a> <a href="whats.htm">[What's new to 
+          the site]</a> <a href="oldindex.htm">[The previous main page]</a> <a href="abweb.htm">[About 
+          this website]</a>
+</body>
+</html>

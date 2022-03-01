@@ -1,0 +1,48 @@
+<html>
+<!-- this part of my website was on the school newspaper and has been moved to my own domain as I was the creator of these different texts.-->
+<head>
+<title>Surfing the World Wide Waves, Dancing Badgers</title>
+<Meta name="Author" content="Richard Azia">
+<Meta name="Publisher" content="06/006/2004">
+<Meta name="Copyright" content="Richard Azia 2004">
+<Meta name="Revisit-After" content="5 days">
+<Meta HTTP-EQUIV="Expires" content="none">
+<Meta name="Keywords" content="Webcams for your website">
+<Meta name="Pagetopic" content="information technology, games, fun, entertainment, dancing badgers, weebl and Bob">
+<Meta name="Pagetype" content="">
+<Meta name="Audience" content=" All">
+<Meta name="Robots" content="INDEX,FOLLOW">
+<Meta name="Content-Language" content="English"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="surging.css">
+</head>
+<body>
+<h1>Surfing the World Wide Waves (WWW)</h1>
+        <h2>Dancing Badgers</h2>        
+      <p>There are many excentric websites around the world, some are good, others 
+        are bad. For those of you who surf the web and like badgers there are 
+        a series of websites you may find interesting. 
+        <p>The creators of Weebl and Bob, cartoons of two eggs speaking about pie 
+        have also created and collected other cartoons. The first of these clips 
+        is badgers dancing with the word badger repeated many times. The second 
+        of these is a tribute to the English football team. </p>
+      <p align="center"><a href="http://www.weebls-stuff.com/toons/21/">Dancing 
+        Badgers</a><br>
+        <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EIyixC9NsLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><a href="http://www.footballbadgers.com/">Dancing Badgers for England</a><br>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jEb1Zh8eptg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><a href="http://www.brickfrenzy.com/sculpture_badger.html">Lego Badgers</a><br>
+      </p>
+<h3> Other sections </h3>
+<center>
+          <a href="about_me.htm"></a> <a href="cv.htm">[My CV]</a> <a href="http://uk.calendar.yahoo.com/shadprof"> 
+          [My calendar]</a> <a href="comp.htm">[Video compression]</a> <a href="cs.htm">[Cinema 
+          studies]</a> <a href="surfing.htm">[Surfing the World Wide Waves]</a> 
+          <a href="environm.htm">[Environmental Systems]</a> <a href="fs.htm">[Browse 
+          through this DVD collection]</a> <a href="whats.htm">[What's new to 
+          the site]</a> <a href="oldindex.htm">[The previous main page]</a> <a href="abweb.htm">[About 
+          this website]</a>[<a href="http://www.main-vision.com/forum">Discussion 
+          Forum</a>] 
+</center>
+</body>
+</html>

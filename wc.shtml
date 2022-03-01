@@ -1,0 +1,95 @@
+<html>
+<!-- this part of my website was on the school newspaper and has been moved to my own domain as I was the creator of these different texts.-->
+<head>
+<title>Surfing the World Wide Waves, Webcams and ftp</title>
+<Meta name="Author" content="Richard Azia">
+<Meta name="Publisher" content="30/01/2004">
+<Meta name="Copyright" content="Richard Azia 2004">
+<Meta name="Revisit-After" content="5 days">
+<Meta HTTP-EQUIV="Expires" content="none">
+<Meta name="Keywords" content="Webcams for your website">
+<Meta name="Pagetopic" content="information technology, voyeurism, webcam, curiosity, ftp, WebCamFirst">
+<Meta name="Pagetype" content="">
+<Meta name="Audience" content=" All">
+<Meta name="Robots" content="INDEX,FOLLOW">
+<Meta name="Content-Language" content="English"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="surging.css">
+</head>
+<body>
+<script language="JavaScript">
+//Refresh page script- By Brett Taylor (glutnix@yahoo.com.au)
+//Modified by Dynamic Drive for NS4, NS6+
+//Visit http://www.dynamicdrive.com for this script
+//configure refresh interval (in seconds)
+var countDownInterval=60;
+//configure width of displayed text, in px (applicable only in NS4)
+var c_reloadwidth=200
+</script>
+<ilayer id="c_reload" width=&{c_reloadwidth}; ><layer id="c_reload2" width=&{c_reloadwidth}; left=0 top=0></layer></ilayer>
+<script>
+var countDownTime=countDownInterval+1;
+function countDown(){
+countDownTime--;
+if (countDownTime <=0){
+countDownTime=countDownInterval;
+clearTimeout(counter)
+window.location.reload()
+return
+}
+if (document.all) //if IE 4+
+document.all.countDownText.innerText = countDownTime+" ";
+else if (document.getElementById) //else if NS6+
+document.getElementById("countDownText").innerHTML=countDownTime+" "
+else if (document.layers){ //CHANGE TEXT BELOW TO YOUR OWN
+document.c_reload.document.c_reload2.document.write('Next <a href="javascript:window.location.reload()">refresh</a> in <b id="countDownText">'+countDownTime+' </b> seconds')
+document.c_reload.document.c_reload2.document.close()
+}
+counter=setTimeout("countDown()", 1000);
+}
+
+function startit(){
+if (document.all||document.getElementById) //CHANGE TEXT BELOW TO YOUR OWN
+document.write('Next <a href="javascript:window.location.reload()">refresh</a> in <b id="countDownText">'+countDownTime+' </b> seconds')
+countDown()
+}
+
+if (document.all||document.getElementById)
+startit()
+else
+window.onload=startit
+
+</script>
+<h1>Surfing the World Wide Waves (WWW)</h1>
+        <h2>WebCamFirst</h2>        
+      <p>There are a few methods by which to get images onto your webpage and 
+        one of the best methods is sending the image via ftp to your server. As 
+        you'll see on this webpage it reloads automaticaly with a new image around 
+        once a minute. In order to do this I experimented with <a href="http://www.webcamfirst.com" target="_blank">WebCamFirst</a> 
+        and below you can see the result. It's a program which you install on 
+        your operating system and depending on how you chose to use it it automaticaly 
+        takes a picture and sends the file to your webserver. 
+      <p>Once this is done all that's left for you to do is create a webpage 
+          linking directly to the image and add a refresh tag so that the website 
+          reloads automaticaly for people to enjoy looking at you.</p>
+        <p>Whether what they see is interesting or not depends on where the webcam 
+          is and on whether you want to give them something more fun to look at. 
+          <ilayer id="c_reload" width=&{c_reloadwidth}; > 
+          <layer id="c_reload2" width=&{c_reloadwidth}; left=0 top=0></layer>
+          </ilayer>
+        <div align="center">
+  <img src="http://www.main-vision.com/webcam.jpg"> </div>
+<h3> Other sections </h3>
+<center>
+          <a href="about_me.htm"></a> <a href="cv.htm">[My CV]</a> <a href="http://uk.calendar.yahoo.com/shadprof"> 
+          [My calendar]</a> <a href="comp.htm">[Video compression]</a> <a href="cs.htm">[Cinema 
+          studies]</a> <a href="surfing.htm">[Surfing the World Wide Waves]</a> 
+          <a href="environm.htm">[Environmental Systems]</a> <a href="fs.htm">[Browse 
+          through this DVD collection]</a> <a href="whats.htm">[What's new to 
+          the site]</a> <a href="oldindex.htm">[The previous main page]</a> <a href="abweb.htm">[About 
+          this website]</a>[<a href="http://www.main-vision.com/forum">Discussion 
+          Forum</a>] 
+      <p><a href="mailto:richard@main-vision.com">Contact me</a>
+</center><
+</body>
+</html>

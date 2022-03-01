@@ -1,0 +1,64 @@
+<html>
+<!-- this part of my website was on the school newspaper and has been moved to my own domain as I was the creator of these different texts.-->
+<head>
+<title>Telecom 2003 in Geneva - High Speed Data transfer</title>
+<title>>High speed data transfer</title>
+<Meta name="Author" content="Richard Azia">
+<Meta name="Publisher" content="07/10/2003">
+<Meta name="Copyright" content="Richard Azia 2003">
+<Meta name="Revisit-After" content="5 days">
+<Meta HTTP-EQUIV="Expires" content="none">
+<Meta name="Keywords" content="telecom 2003">
+<Meta name="Pagetopic" content="information technology">
+<Meta name="Pagetype" content="">
+<Meta name="Audience" content=" All">
+<Meta name="Robots" content="INDEX,FOLLOW">
+<Meta name="Content-Language" content="English"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="surging.css">
+</head><body>
+<h1>Surfing the World Wide Waves (WWW)</h1>
+        <h2>High speed data transfer</h2>
+        <p>Over the past few days CERN have been discussing high speed data transfer via 
+          fibre optic links. This demonstration is particularly interesting because 
+          of the speed at which these transfers are being made. </p>
+<p>The technology behind these trials is not yet available to the public and there 
+  are only a limited amount of servers able to send files at such high speeds. 
+  They have succesfully sent files at speeds of up to 5.6 gigabits per second. 
+  With the ADSL Modem you are receiving data at around 128Kb/s. In Effect the 
+  CERN used the Translantic grid network to send data at the rate of one dvd per 
+  second. </p>
+        <p>The challenge itself is quite impressive considering the technology behind 
+          it. Firstly you need two powerful machines, one set up to receive the 
+          data and the other to transmit. The point about transferring such huge 
+          amounts of data is that you need to store all this information in the 
+          Random access memory before you are able to send it down the tube. Quite 
+          large amounts of ram are required to store this data before sending 
+          therefore you'd need at least 8Gbytes of ram before you're able to send 
+          the data down the line to be received. To give you an idea of the amount 
+          of data imagine that your connection is a water pistol and the CERN's 
+          usage is a firehose. With this comparison you get an idea of the huge 
+          quantity of data travelling down the line at just one moment.</p>
+        <p>Limitations with such high amounts of data are actually found within 
+          the machines themselves. The amount of processing power and the amount 
+          of RAM required is more than can be found in conventional equipment 
+          and at the moment one of the larger problems is an element of too much 
+          capacity in terms of badnwidth compared to what can be used either over 
+          the fibre or by the various ISP's who would need to upgrade their own 
+          system. </p>
+        <p>Back to <a href="tc2003.shtml">Telecom 2003</a></p>
+        <p> Articles by <a href="mailto:rafaleaz@geocities.com?subject=&quot;World Wide Waves&quot;">Richard 
+          Azia</a> unless otherwise indicated. </p>
+<h3>Other sections</h3>
+          <a href="about_me.htm"></a> <a href="cv.htm">[My CV]</a> <a href="http://uk.calendar.yahoo.com/shadprof"> 
+          [My calendar]</a> <a href="comp.htm">[Video compression]</a>  <a href="cs.htm">Cinema studies</a> <a href="comp.htm">[Video 
+          compression]</a> <a href="surfing.htm">[Surfing the World Wide Waves]</a> 
+          <a href="environm.htm">[Environmental Systems]</a> <a href="fs.htm">[Browse 
+          through this DVD collection]</a> <a href="whats.htm">[What's new to 
+          the site]</a> <a href="oldindex.htm">[The previous main page]</a> <a href="abweb.htm">[About 
+          this website]</a>[<a href="http://www.instantmessageboards.com/forums/rafaleaz">Discussion 
+                Forum</a>]
+<p><a href="mailto:richard@main-vision.com">Contact me</a>
+</center>
+</body>
+</html>

@@ -1,0 +1,11 @@
+###
+### MOD REWRITE RULES (DO NOT EDIT)
+###
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /richard/video/
+RewriteRule ^feed/([0-9]+) rss.php?i=$1 [QSA]
+RewriteRule ^channel/([0-9]+) library.php?i=$1 [QSA]
+RewriteRule ^video/([0-9]+)/(.*)$ detail.php?c=$1&i=$2 [QSA]
+RewriteRule ^dl/([0-9]+)/(.*)$ download.php?c=$1&i=$2&type=direct [QSA]		
+</IfModule>

@@ -1,0 +1,237 @@
+<html>
+<head>
+<title>Geography: IB higher notes - Glaciation</title>
+<meta name="description" content="Collection of Geography notes by a geography student">
+<meta name="keywords" content="glacier, ice, glaciation, geography, ice">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Some notes about Glaciation">
+<meta name="author" content="Richard Azia">
+<meta property="og:image" content="https://live.staticflickr.com/769/20784251716_059f7f0404_c.jpg" />
+
+<style>
+h1, h2 {
+    text-align: center;
+  }
+  #glacier {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #glacier td, #glacier th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #glacier tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #glacier tr:hover {background-color: #ddd;}
+  
+  #glacier th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: lightblue;
+    color: white;
+  }
+  /* grid layout */
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 1rem;
+}
+.grid > div {
+  background: rgb(255, 255, 255);
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
+body {
+  margin: 2rem;
+  font: 12px system-ui;
+  background-color: rgb(224, 224, 214);
+}
+.links {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+  /*top nav */
+  ul.topnav {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: auto;
+            background-color: #333;
+          }
+          
+          ul.topnav li {
+            float: left;
+          }
+          
+          ul.topnav li a, .dropbtn {
+            display: inline-block;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+          }
+          
+          ul.topnav li a:hover, .dropdown:hover .dropbtn {
+            background-color: rgb(107, 150, 190);
+          }
+          
+          ul.topnav li.dropdown {
+            display: inline-block;
+          }
+          
+          ul.topnav  .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: rgb(172, 196, 218);
+            min-width: 750px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+          }
+          
+          ul.topnav .dropdown-content a {
+            color: rgb(250, 248, 248);
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            text-align: left;
+          }
+          
+          ul.topnav .dropdown-content a:hover {background-color: #9cb1c9;}
+          
+          ul.topnav .dropdown:hover .dropdown-content {
+            display: block;
+          }
+        
+          @media screen and (max-width: 670px) {
+            ul.topnav li.right, 
+            ul.topnav li {float: none;}
+          }
+  </style>
+</head>
+<body>
+  <ul class="topnav">
+    <li><a href="about.htm">About this site</a></li>
+    <li><a href="oldindex.htm">The old index</a></li>
+    <li><a href="environm.htm">Environmental Studies</a></li>
+    <li><a href="wind.htm">Wind</a></li>
+    <li><a href="mountain.htm">Mountain&nbsp;Formation</a></li>
+    <li><a href="Murray.html">The&nbsp;Murray&nbsp;darling&nbsp;basin</a></li>
+    <li><a href="riverprocesses.htm">River&nbsp;processes</a></li>
+    <li><a href="deserts.htm">Deserts</a></li>
+    <li><a href="weatheri.html">Weathering</a></li>
+    <li><a href="populati.htm">Population</a></li>
+    </ul>
+  <div class="grid">
+<div class ="links">
+<h1>Geography: IB higher notes</h1>
+</div>
+<div class="links">
+<h2>Glaciation</h2>
+</div>
+<div class="links">
+<center><a data-flickr-embed="true" href="https://www.flickr.com/photos/mainvision/20784251716/in/photolist-xqmavQ-xqm7WG-xqm7is-xECSqY-xqsjJi-xG82RA-xqkRP9-xECM4A-xECLLS-xECJjC-xECHVw-xqkJab-xGXj2t-xECD4N-xG7Qhy-xqkAQS-wL5y1V-xqkxWL-wKWbSE-xECuEU-xqkFxA-xG7GhL-xGX7k2-xHzgr2-xqkwdf-xHzfGX-xGX6aB-xG7EUf-wL5sAB-xGX5Bc-xECsoj-wL5sbP-wL5rZr-xqkCZE-xqrUzM-xHzdwe-xqrTW2-xGX3AD-xqksL5-wL5pVr-xG7BBy-xqkAgy-xqkp3o-xqkvxW-xG7u1w-xqrGhR-xqrEaV-xqkcGh-xHyUg6-xHySea/" title="Untitled"><img src="https://live.staticflickr.com/769/20784251716_059f7f0404_c.jpg" width="800" height="450" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+</div>
+<div class="links">
+<table id="glacier" border="1" width="0" height="0">
+        <tr><th>Term</th><th>Explanation of the term</th>        
+<tr>
+          <td>Moraine</td>
+          <td>
+            <p>Moraine is a term used to describe the material which has been 
+              carried and deposited at the end of it's route. There are three 
+              variatons of moraine to remember. </p>
+            <p>The first one is<b> terminal</b> moraine. These occur where the 
+              glacier has ceased progressing forwards and deposited it's load 
+              at the furthest point from it's starting position. </p>
+            <p><b>Recessional</b> morain occur where the glacier has retreated 
+              and slowed it's retreat to deposit more rock and material. </p>
+            <p>Medial moraine can be found where two glaciers have converged into 
+              one valley and between them deposited their load. </p>
+          </td>
+        </tr>
+        <tr>
+          <td>Nevée</td>
+          <td>Nev&eacute;e is a french word used to describe ice which has been 
+            compressed so much that it has no air left inside. It can be recognised 
+            by it's blue colour</td>
+        </tr>
+        <tr>
+          <td>Pyramidal peak</td>
+          <td>A pyramidal peak occurs when a piece of harder rock 
+            is eroded on three sides or more to create a pyramid. Two examples 
+            would be the Materhorn in Zermat and Mt Blanc above Chamonix. </td>
+        </tr>
+        <tr>
+          <td>Cirque</td>
+          <td>Cirque are caused over time by glaciers when snow has accumulated 
+            over the years and through it's rotational movement has hollowed out 
+            and scoured the back wall to create a bowl like shape. At the back 
+            a fairly steep wall can be found. </td>
+        </tr>
+        <tr>
+          <td>Arêtes</td>
+          <td>Aretes is a french word to describe the top of the outward facing 
+            rock formations from a pyramidal peak.</td>
+        </tr>
+      </table>
+    </div>
+    <div>
+      <p>The term glaciation is used to describe the process which occurs when 
+        ice accumulated into a large volume in one location from accumulated precipitation 
+        over the years. In certain depressions the snow accumulates when the temperature 
+        is too low for the snow to melt. Over the years the amount of ice increases 
+        and with it the wheight of the volume of ice. This increasing mass begins 
+        to exert on the soil below it and this pressure begins to erode the surface. 
+        There may be a rotational movement which rips away rock smoothing the 
+        formation and creating a cirque over time. A feature of the cirque is 
+        firstly it's formation of a hollow but is recognisable by the rock face 
+        behind it being quite steep.
+      <p>Over time this may help to form a pyramidal peak such as the Materhorn 
+        in Zermat or the Mt Blanc above Chamonix. The process continues down the 
+        mountain with gravity's force with the result being the formation of a 
+        glacier flowing down like a river. There are several key terms to remember 
+        when talking of glaciers which you may find above.
+      <p>When speaking of glacier it is interesting to remember that they behave 
+        according to the same laws of fluid motion as a river. The center of the 
+        glacier is moving faster than the outside because there is less friction 
+        slowing it down. </p>
+      </div>
+      <div>
+        <p>It is one of the most destructive of geographic occurences 
+        because of the sheer wheight contained within the ice. To illustrate the 
+        movement of rock a simple experiment is to place several sticks at the 
+        same height on the glacier and watch the movement of these sticks over 
+        time. As the ice moves at different rates you will find that a v shape 
+        is forming pointing downwards. It begins it's trip downwards and anything 
+        in it's way is covered and surrounded by the ice over a period of time 
+        and trapped. The material is ripped out of it's place even if it's a rock 
+        as large as your house. It acts like sandpaper and leaves bare rock. 
+      <p>What remains from the passage of a glacier is a U shaped valley as can 
+        be seen by the Lac Leman (lake Geneva) in Switzerland. Boulder clay which 
+        is the ground stone is ubiquitous within the region and a rich soil is 
+        a possitive side effect of all the materials which have been moved. 
+      <p>The speed of the glacier is not constant as you may be led to believe. 
+        It is dependant on various factors such as precipitation, temperature, 
+        angle of the slope and more. As the temperature increases the glacier 
+        slows down and may begin to retreat. Precipitation helps add material 
+        and mass which give the glacier enough momentum to begin flow back down 
+        the slope. Finally the aspect of the slope may affect speed since the 
+        steeeper it is the faster it will move down hill. 
+      </div>
+<div>
+<a href="mailto:richard@main-vision.com">richard@main-vision.com</a>
+      <h3> Other sections </h3>
+      <p><a href="about_me.htm"></a> </p>
+      <p><a href="surfing.htm">Surfing the World Wide Waves</a> </p>
+      <p><a href="environm.htm">[Environmental Systems]</a></p>
+      <p><a href="whats.htm">[What's new to the site]</a> </p>
+      <p><a href="oldindex.htm">The previous main page</a> </p>
+      <p><a href="abweb.htm">About this website</a> </p>
+    </div>
+</div>
+</body>
+</html>

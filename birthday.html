@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Is your birthday in the middle of a Pandemic</title>
+</head>
+<body>
+<h1>Pandemic Birthday Lottery.</h1>
+<p>I'm thinking of a Birthday. Guess which: Pandemic, not pandemic?</p>
+
+<input id="birthday" type="text">
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+  var letter = document.getElementById("birthday").value;
+  var text;
+
+  // If the letter is "c"
+  if (letter === "pandemic") {
+    text = "Sucks to be you";
+    
+  // If the letter is "not pandemic" or "d"
+  } else if (letter === "not pandemic" || letter === "") {
+    text = "Close, but not close enough.";
+    
+  // If the letter is anything else
+  } else {
+    text = "Waaay off..";
+  }
+  document.getElementById("demo").innerHTML = text;
+}
+</script>
+
+</body>
+</html>

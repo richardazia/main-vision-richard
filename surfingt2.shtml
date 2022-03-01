@@ -1,0 +1,230 @@
+<html>
+<!-- this part of my website was on the school newspaper and has been moved to my own domain as I was the creator of these different texts.-->
+
+<head>
+<title>Surfing The World Wide Waves, a weekly article</title>
+<title>Montage and Editing theory</title>
+<Meta name="Author" content="Richard Azia">
+<Meta name="Publisher" content="09/01/2004">
+<Meta name="Copyright" content="Richard Azia 2004">
+<Meta name="Revisit-After" content="5 days">
+<Meta HTTP-EQUIV="Expires" content="none">
+<Meta name="Keywords" content="link validator, ES 5, The importance of a good title, increased surfing speed, hotmail using an e-mail client, e-mail security, spam, geocities, web portal, information reliability, ICQ, Online communities">
+<Meta name="Description" content="A few articles about the World Wide WEb's technologies">
+<Meta name="Pagetopic" content="information technology">
+<Meta name="Pagetype" content="student">
+<Meta name="Audience" content=" All">
+<Meta name="Robots" content="INDEX,FOLLOW">
+<Meta name="Content-Language" content="English"> 
+<script language="javascript">
+<!--
+function movein(which,html){
+which.style.background='beige'
+description.innerHTML=html
+}
+
+function moveout(which){
+which.style.background='azure'
+description.innerHTML='&nbsp;'
+}
+
+-->
+</script>
+<!-- Place code above between your head tags-->
+</head>
+<body  bgcolor="#000000" text="#FFFFFF" link="#6699CC" vlink="#669966" alink="#999999">
+<center>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+        <p align="center"><font color="#0000A0"><font size="6"><strong>Surfing The World 
+          Wide Waves, a weekly article</strong></font><big><br>
+          </big></font><font face="Tahoma"><strong><font size="1" color="#808000"><br>
+          </font><small><br>
+          </small><font size="1"> [ <a href="romans.html">Back</a> ] [ <a href="oldindex.htm">Up</a> 
+          ] [ <a href="fieldweek.html">Next</a> ]</font></strong></font></p>
+
+        <hr>
+</td></tr></table><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top"><font face="Arial, Arial, Helvetica" mstheme>
+<h3 align="center"><font color="#CCCCCC" mstheme><big>Surfing the World Wide Waves (WWW)</big></font mstheme></h3>
+<p align="center"> </p>
+
+        <p>The World Wide Web is a large and impressive playground where I enjoy 
+          spending time. Over time there are various elements which I find are 
+          interesting. This section started as part of the school newspaper whilst 
+          still at high school and was also on the newspaper's website which I 
+          was in charge of maintaining.</p>
+
+        <center>
+          <table>
+        
+            <tr> 
+              <td class="menu" id="choice1" style="cursor:hand;background-color:" onMouseOver="movein(choice1,'About me, CV, Geography, Roman civilization and more')" onMouseOut="moveout(choice1)" > 
+                <div align="center">
+                  <h3>Surfing the World Wide Waves</h3>
+                </div>
+              </td>
+            </tr>
+			 <tr><td class="menu" bordercolor="#FFFFFF" id="choice1" style="cursor:hand;background-color:" onMouseOver="movein(choice1,'Why have a good title')" onMouseOut="moveout(choice1)" onClick="location.href='the.htm'"> 
+              <div align="center">The Importance of a good title</div>
+            </td>
+            </tr>
+              <tr><td class="menu" id="choice2" style="cursor:hand;background-color:" onMouseOver="movein(choice2,'Trying to surf the web faster')" onMouseOut="moveout(choice2)" onClick="location.href='increase.htm'"> 
+                <div align="center">Increase your surfing speed</div>
+              </td>
+            </tr><tr>
+              <td class="menu" id="choice3" style="cursor:hand;background-color:" onMouseOver="movein(choice3,'For a time when outlook didn't check hotmail accounts')" onMouseOut="moveout(choice3)" onClick="location.href='hotmail.htm'"> 
+                <div align="center">Hotmail using an e-mail client</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Surfing the World Wide Web, problems with E-mail security, passwords etc')" onMouseOut="moveout(choice4)" onClick="location.href='security.shtml'"> 
+              <div align="center">E-mail security</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Which e-mail account should I take?')" onMouseOut="moveout(choice4)" onClick="location.href='which.htm'"> 
+              <div align="center">Which E-mail account</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Advertising without polluting, but a pain to deal with')" onMouseOut="moveout(choice4)" onClick="location.href='spam.html'"> 
+              <div align="center">Spam</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'A Web Portal')" onMouseOut="moveout(choice4)" onClick="location.href='geocities.html'"> 
+              <div align="center">Geocities</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Information reliability on the World Wide Web')" onMouseOut="moveout(choice4)" onClick="location.href='dangers.htm'"> 
+              <div align="center">Reliability</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'I seek you, instant messaging')" onMouseOut="moveout(choice4)" onClick="location.href='icqseek.htm'"> 
+              <div align="center">ICQ</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Video compression and the World Wide Web')" onMouseOut="moveout(choice4)" onClick="location.href='vidco.html'"> 
+              <div align="center">Video compression</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'A forum for ancient civilizations')" onMouseOut="moveout(choice4)" onClick="location.href='as.htm'"> 
+              <div align="center">AncientWorlds</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'A global network of computers working on the same task.')" onMouseOut="moveout(choice4)" onClick="location.href='seti.shtml'"> 
+              <div align="center">Seti@home</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'I found this was quite an interesting piece of software for webmastering.')" onMouseOut="moveout(choice4)" onClick="location.href='12k.shtml'"> 
+              <div align="center">1st page 2000</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Computers playing with our Emotions.')" onMouseOut="moveout(choice4)" onClick="location.href='copla.shtml'"> 
+              <div align="center">Emotions</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'A website in french for those who like garden gnomes.')" onMouseOut="moveout(choice4)" onClick="location.href='nainwak.shtml'"> 
+              <div align="center">Nainwak</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'A good place to discuss various topics.')" onMouseOut="moveout(choice4)" onClick="location.href='flipside.shtml'"> 
+              <div align="center">The Flipside</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Nochicktrix, a place to unwind.')" onMouseOut="moveout(choice4)" onClick="location.href='nochick.shtml'"> 
+              <div align="center">NCT</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'I found this was quite an interesting piece of software for webmastering.')" onMouseOut="moveout(choice4)" onClick="location.href='extcap.shtml'"> 
+              <div align="center"> 
+                <p>Extermal Capture devices</p>
+              </div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Sharing computer processors around the world, involves high speed data transfer.')" onMouseOut="moveout(choice4)" onClick="location.href='dgrid.shtml'"> 
+              <div align="center">The Euro Datagrid project</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'The olympics of the communication world.')" onMouseOut="moveout(choice4)" onClick="location.href='tc2003.shtml'"> 
+              <div align="center">Telecom 2003</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Several gigabits per second.')" onMouseOut="moveout(choice4)" onClick="location.href='hsdt.shtml'"> 
+              <div align="center">High Speed Data transfer</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Thoughts upon being at the Telecom 2003.')" onMouseOut="moveout(choice4)" onClick="location.href='tel23k.shtml'"> 
+              <div align="center">Telecom 2003 Summary</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Sending signals from device to device rather than transiting through transmiters.')" onMouseOut="moveout(choice4)" onClick="location.href='m2mtel.shtml'"> 
+              <div align="center">Peer to Peer Mobile Telephony</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'A phone, a camera, an xml browser.')" onMouseOut="moveout(choice4)" onClick="location.href='na7250.shtml'"> 
+              <div align="center">Nokia 7250i</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Wireless networking, the future.')" onMouseOut="moveout(choice4)" onClick="location.href='wfi.shtml'"> 
+              <div align="center">WIFI</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'An interesting program for file sharing.')" onMouseOut="moveout(choice4)" onClick="location.href='es5.shtml'"> 
+              <div align="center">Earth Station 5</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Recently knighted for creating the World Wide Web.')" onMouseOut="moveout(choice4)" onClick="location.href='tbl.shtml'"> 
+              <div align="center">Tim Berners Lee Knighted</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'Make sure all the links are working')" onMouseOut="moveout(choice4)" onClick="location.href='lv.shtml'"> 
+              <div align="center">Link Validator</div>
+            </td>
+            </tr>
+            <td class="menu" bordercolor="#FFFFFF" id="choice4" style="cursor:hand;background-color:" onMouseOver="movein(choice4,'File sharing from several computers at once.')" onMouseOut="moveout(choice4)" onClick="location.href='btrnt.shtml'"> 
+              <div align="center">BitTorrent technology</div>
+            </td>
+            </tr>
+            <tr> 
+              <td height="18"> 
+                <div align="center"><font id="description" face="arial" size="1">text 
+                  displays here </font></div>
+              </td>
+            </tr>
+          </table>
+        <p>&nbsp;</p></center>
+<p align="left"> Articles by <a href="mailto:rafaleaz@geocities.com?subject=&quot;World Wide Waves&quot;">Richard Azia</a>
+unless otherwise indicated. </p>
+
+<p align="left">  
+</font mstheme></td></tr></table><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<hr>
+<center>
+<p> Other sections </p>
+          <a href="cv.htm">[My CV]</a> <a href="http://uk.calendar.yahoo.com/shadprof"> 
+          [My calendar]</a> <a href="comp.htm">[Video compression]</a> <a href="cs.htm">Cinema 
+          studies</a> <a href="comp.htm">[Video compression]</a> <a href="surfing.htm">[Surfing 
+          the World Wide Waves]</a> <a href="environm.htm">[Environmental Systems]</a> 
+          <a href="fs.htm">[Browse through this DVD collection]</a> <a href="whats.htm">[What's 
+          new to the site]</a> <a href="oldindex.htm">[The previous main page]</a> 
+          <a href="abweb.htm">[About this website]</a>[<a href="http://www.main-vision.com/forum">Discussion 
+          Forum</a>] 
+          <table border="0" width="100%">
+  <tr>
+    <td width="100%">
+      <p align="center"><font face="Tahoma"><a href="mailto:richard@main-vision.com">Contact me</a></font></td>
+  </tr>
+  <tr>
+    <td width="100%"></td>
+  </tr>
+  <tr>
+    <td width="100%">
+                <p align="center"> <font color="#0000FF"><blink><strong><br>
+                  <a href="books_and_films.htm">Visit the Perspectives online 
+                  bookshop, search for books and buy them online</a></strong></blink><br>
+                  </font>
+              </td>
+  </tr>
+</table>
+<p align="center"> </p>
+
+</center></td></tr></table></center></body>
+</html>

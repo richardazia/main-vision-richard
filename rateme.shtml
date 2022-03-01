@@ -1,0 +1,105 @@
+<html>
+<!-- this part of my website was on the school newspaper and has been moved to my own domain as I was the creator of these different texts.-->
+<head>
+<title>Surfing the World Wide Waves, Webcams and ftp</title>
+<Meta name="Author" content="Richard Azia">
+<Meta name="Publisher" content="27/05/2004">
+<Meta name="Copyright" content="Richard Azia 2004">
+<Meta name="Revisit-After" content="5 days">
+<Meta HTTP-EQUIV="Expires" content="none">
+<Meta name="Keywords" content="Webcams for your website">
+<Meta name="Pagetopic" content="information technology, snyggast, rate, snyggin, sweden, estonia, rating, international, national, border, revealing">
+<Meta name="Pagetype" content="">
+<Meta name="Audience" content=" All">
+<Meta name="Robots" content="INDEX,FOLLOW">
+<Meta name="Content-Language" content="English"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="surging.css">
+</head><body>
+<script language="JavaScript">
+//Refresh page script- By Brett Taylor (glutnix@yahoo.com.au)
+//Modified by Dynamic Drive for NS4, NS6+
+//Visit http://www.dynamicdrive.com for this script
+//configure refresh interval (in seconds)
+var countDownInterval=60;
+//configure width of displayed text, in px (applicable only in NS4)
+var c_reloadwidth=200
+
+</script>
+
+
+<ilayer id="c_reload" width=&{c_reloadwidth}; ><layer id="c_reload2" width=&{c_reloadwidth}; left=0 top=0></layer></ilayer>
+
+<script>
+
+var countDownTime=countDownInterval+1;
+function countDown(){
+countDownTime--;
+if (countDownTime <=0){
+countDownTime=countDownInterval;
+clearTimeout(counter)
+window.location.reload()
+return
+}
+if (document.all) //if IE 4+
+document.all.countDownText.innerText = countDownTime+" ";
+else if (document.getElementById) //else if NS6+
+document.getElementById("countDownText").innerHTML=countDownTime+" "
+else if (document.layers){ //CHANGE TEXT BELOW TO YOUR OWN
+document.c_reload.document.c_reload2.document.write('Next <a href="javascript:window.location.reload()">refresh</a> in <b id="countDownText">'+countDownTime+' </b> seconds')
+document.c_reload.document.c_reload2.document.close()
+}
+counter=setTimeout("countDown()", 1000);
+}
+
+function startit(){
+if (document.all||document.getElementById) //CHANGE TEXT BELOW TO YOUR OWN
+document.write('Next <a href="javascript:window.location.reload()">refresh</a> in <b id="countDownText">'+countDownTime+' </b> seconds')
+countDown()
+}
+
+if (document.all||document.getElementById)
+startit()
+else
+window.onload=startit
+
+</script>
+
+<h1>Surfing the World Wide Waves (WWW)</h1>
+        <h2>Personal rating sites</h2>        
+      <p>A strange breed of sites can be found on the web, where people intentionally 
+        want them to judge them based on looks. It may seem strange to those of 
+        us who believe in getting to know people but apparently they have much 
+        success. With Swedish sites like snyggast.com or Estonian sites like rate.ee 
+        we are introduced to an interesting world of superficiality... or so we'd 
+        think. 
+      <p>If you're from an international environment then you're used to hearing 
+        people speak about having the most attractive guys or girls. On these 
+        sites it is interesting to see which nation has the more attractive people. 
+        In such a way the international aspect of the world wide web is brought 
+        to viewers. It encourages dialogue between people in different parts of 
+        the same country as well as cross border around the world. 
+      <p>Some controversy surrounds these sites which may at moments have more 
+        explicit images or being dangerous to the less informed people. The danger 
+        arises when the younger users decide to meet those they have been chatting 
+        to without taking the proper precautions like telling their friends where 
+        they are going and whether they could be accompanied for more safety. 
+      <p>&nbsp;
+      <p>Why not take at these two sites to get an idea:
+      <p><a href="https://web.archive.org/web/20050901000000*/http://www.snyggast.se">Snyggast</a> - The website no longer exists so I have linked to the wayback machine.
+      <p><a href="http://www.rate.ee">rate.ee</a> 
+<h3> Other sections </h3>
+<center>
+<a href="about_me.htm"></a> <a href="cv.htm">[My CV]</a> <a href="http://uk.calendar.yahoo.com/shadprof"> 
+          [My calendar]</a> <a href="comp.htm">[Video compression]</a> <a href="cs.htm">[Cinema 
+          studies]</a> <a href="surfing.htm">[Surfing the World Wide Waves]</a> 
+          <a href="environm.htm">[Environmental Systems]</a> <a href="fs.htm">[Browse 
+          through this DVD collection]</a> <a href="whats.htm">[What's new to 
+          the site]</a> <a href="oldindex.htm">[The previous main page]</a> <a href="abweb.htm">[About 
+          this website]</a>[<a href="http://www.instantmessageboards.com/forums/rafaleaz">Discussion 
+          Forum</a>] 
+          </center>
+      <p><a href="mailto:richard@main-vision.com">Contact me</a>
+  </tr>
+ </body>
+</html>

@@ -1,0 +1,27 @@
+// ----------------------------------------------------------------------
+// Changelog for Archives
+//
+// 2001-10-06  acm3  converted to PostNuke
+// 2001-10-24  niceguyeddie changed db tables to global table names
+// 2001-10-25  carsten added language support, use of theme tables
+// ----------------------------------------------------------------------
+2002-05-23 (v.0.9) code fully rewrited by Kayak. Ported to PostNuke v0.71x API
+           - Added admin interface and user calendar.
+           - Renamed to "Daily_Archive".
+
+2002-06-02 (v.0.91)
+           - Translated to English by almer
+           - News calendar block added.
+
+2002-06-12 (v.0.93)  Small bugs fixed.
+
+2002-07-03 (v.0.96)  Allow use local time for users.
+
+2002-09-13 (v.1.0) Renamed to "daily_archive" (for PN v0.8x compatibility)
+           - Modified algorithm of DB queries to script speed increase 
+	     (now right module menu regenerated 1 time per hour for all users
+	      but block regenerated 1 time per day for EACH user).
+           - Added paging result feature.
+	   - Added 'show all articles' feature.
+
+2002-09-16 (v.1.01) Added "special view for admin" feature.

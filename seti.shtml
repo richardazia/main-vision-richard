@@ -1,0 +1,70 @@
+<html>
+<!-- this part of my website was on the school newspaper and has been moved to my own domain as I was the creator of these different texts.-->
+<head>
+<title>Surfing The World Wide Waves, a weekly article</title>
+<title>The SETI at Home Project</title>
+<Meta name="Author" content="Richard Azia">
+<Meta name="Publisher" content="18/10/2002">
+<Meta name="Copyright" content="Richard Azia 2002">
+<Meta name="Revisit-After" content="5 days">
+<Meta HTTP-EQUIV="Expires" content="none">
+<Meta name="Keywords" content="The importance of a good title, increased surfing speed, hotmail using an e-mail client, e-mail security, spam, geocities, web portal, information reliability, ICQ, Online communities">
+<Meta name="Description" content="A few articles about the World Wide WEb's technologies">
+<Meta name="Pagetopic" content="information technology">
+<Meta name="Pagetype" content="student">
+<Meta name="Audience" content=" All">
+<Meta name="Robots" content="INDEX,FOLLOW">
+<Meta name="Content-Language" content="English"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="surging.css">
+</head>
+<body>
+<h1>Surfing The World Wide Waves, a weekly article</h1>
+        <h2>The Seti at Home project</h2>
+        <p>The search for extra terrestrial life is an enormous and 
+          time intensive task. Each day the sky is combed for signals coming from 
+          outer space but much of it is radio noise. Each day several a huge amount 
+          of data is being recorded and stored on tapes. This data must then be 
+          analysed to find signals which may be extra terrestrial intelligence. 
+          The data needs to be analysed and this is where Seti at home comes in. 
+        </p>
+        <p>Seti at home is a computer program which can run as a 
+          screen saver or run in the background on your own computer. It takes 
+          data from Seti at home and analyses the data. The program is looking 
+          through radio interference to isolate a signal which lasts for around 
+          12 seconds which is around the time for which the signal would be present 
+          in the sky due to the earth's rotation. Once signals are isolated the 
+          data is sent back to sent back to the server and the next work unit begins.</p>
+        <h2>The technical side</h2>
+        <p>All the data is collected onto tapes and in pure form 
+          takes up too much space to send on the web. The data is split into more 
+          managable work units through around 9 machines located at Seti at home's 
+          internet site (the servers, not the documents). The data is then sent 
+          via servers to be downloaded and processed by around four million computers 
+          world wide and there is a computing power so great that the data is 
+          being analysed faster than it is recorded although due to the parsing 
+          machines being few it is not possible to send all the data out to take 
+          full advantage of this. </p>
+        <h2>What makes it so interesting?</h2>
+        <p>What interests me most for the software is how it works. 
+          It's impressive when you think that if you create the right program 
+          then you deleguate to the work to as many machines as are available 
+          at any one time. </p>
+        <p>Articles by <a href="mailto:rafaleaz@geocities.com?subject=&quot;World Wide Waves&quot;">Richard 
+          Azia</a> unless otherwise indicated. </p> 
+<center>
+<p> Other sections </p>
+          <a href="about_me.htm"></a> 
+          <p> <a href="comp.htm">[Video compression]</a> 
+          <p><a href="cs.htm">Cinema studies</a> 
+          <p></p><a href="comp.htm">[Video compression]</a> 
+          <p> <a href="surfing.htm">[Surfing the World Wide Waves]</a> 
+          <p> <a href="environm.htm">[Environmental Systems]</a> 
+          <p> <a href="fs.htm">[Browse through this DVD collection]</a> 
+          <p> <a href="whats.htm">[What's new to the site]</a> 
+          <p></p><a href="oldindex.htm">[The previous main page]</a> 
+          <p><a href="abweb.htm">[About this website]</a> 
+</center></body>
+</html>
+
+

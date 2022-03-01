@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>ice</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" text="#000000">
+<span class="textbg">ice (14 images)</span><br>
+<span class="textsm"></span>
+<p class="desc"><p><span class="textreg">Click a picture to see a larger view.</span><br>
+<hr size="1">
+<a href="target0.html"><img align="center" src="thumbnails/image042.jpg" width="122" height="94" title="image042.jpg" border="0"></a>
+<a href="target1.html"><img align="center" src="thumbnails/image041.jpg" width="122" height="94" title="image041.jpg" border="0"></a>
+<a href="target2.html"><img align="center" src="thumbnails/image040.jpg" width="122" height="94" title="image040.jpg" border="0"></a>
+<a href="target3.html"><img align="center" src="thumbnails/image039.jpg" width="122" height="94" title="image039.jpg" border="0"></a>
+<a href="target4.html"><img align="center" src="thumbnails/image038.jpg" width="122" height="94" title="image038.jpg" border="0"></a>
+<a href="target5.html"><img align="center" src="thumbnails/image037.jpg" width="122" height="94" title="image037.jpg" border="0"></a>
+<a href="target6.html"><img align="center" src="thumbnails/image036.jpg" width="122" height="94" title="image036.jpg" border="0"></a>
+<a href="target7.html"><img align="center" src="thumbnails/image035.jpg" width="122" height="94" title="image035.jpg" border="0"></a>
+<a href="target8.html"><img align="center" src="thumbnails/image034.jpg" width="122" height="94" title="image034.jpg" border="0"></a>
+<a href="target9.html"><img align="center" src="thumbnails/image033.jpg" width="122" height="94" title="image033.jpg" border="0"></a>
+<a href="target10.html"><img align="center" src="thumbnails/image032.jpg" width="122" height="94" title="image032.jpg" border="0"></a>
+<a href="target11.html"><img align="center" src="thumbnails/image031.jpg" width="122" height="94" title="image031.jpg" border="0"></a>
+<a href="target12.html"><img align="center" src="thumbnails/image030.jpg" width="122" height="94" title="image030.jpg" border="0"></a>
+<a href="target13.html"><img align="center" src="thumbnails/image029.jpg" width="122" height="94" title="image029.jpg" border="0"></a>
+<map name="Map">
+  <area shape="rect" coords="95,1,129,44" href="frameset.htm">
+</map>
+</body>
+</html>

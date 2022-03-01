@@ -1,0 +1,64 @@
+<html>
+<!-- this part of my website was on the school newspaper and has been moved to my own domain as I was the creator of these different texts.-->
+<head>
+<title>Surfing the World Wide Waves, Bittorrent</title>
+<Meta name="Author" content="Richard Azia">
+<Meta name="Publisher" content="06/07/2004">
+<Meta name="Copyright" content="Richard Azia 2004">
+<Meta name="Revisit-After" content="5 days">
+<Meta HTTP-EQUIV="Expires" content="none">
+<Meta name="Keywords" content="information technology, linux, Bittorrent, Azureus, file sharing, peer to peer">
+<Meta name="Pagetopic" content="file sharing">
+<Meta name="Pagetype" content="">
+<Meta name="Audience" content="All">
+<Meta name="Robots" content="INDEX,FOLLOW">
+<Meta name="Content-Language" content="English"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="surging.css">
+</head><body>
+<h1>Surfing the World Wide Waves (WWW)</h1>
+        <h2>Bittorrent</h2>
+      <p>Bittorrent is a file sharing method used by a growing number of people. 
+        It's main difference lies in it's sharing method. Instead of sharing one 
+        giant file such as a movie it shares packets, much as the web is designed 
+        to do. This file sharing method takes a file, for example one of the latest 
+        movies, splits it into hundreds of packets. As all these packets are made 
+        available one person may download a file from several locations. </p>
+      <p>Instead of getting one file from one person as you do with Kazaa and 
+        other programs you get the same file but fragments of it from hundreds 
+        of people. This increases the speed at which you may get files from one 
+        location to another. </p>
+      <p>It's strength and it's weakness is that it depends too much on other 
+        people as with all sharing programs. The advantage though is when downloading 
+        popular files. As this network deals with packets from various files rather 
+        than complete files sharing may be carried out much faster. Once you have 
+        downloaded a small 50 kilobyte segment it is made available for others 
+        to download. In so doing the network can expand to such an extent that 
+        it works better as more people are downloading. </p>
+      <p>Every person downloading the same file can download packets from each 
+        other reducing the stress on the one with the most packets. Imagine that 
+        you're sharing a book with several hundred pages. As some people have 
+        more pages from that book they are able to photocopy and pass on the page 
+        to another person and this continues. As more people have copies of the 
+        book they should be able to share a higher percentage of the file. This 
+        is a highly dynamic method for sharing files and will probably become 
+        the future of file sharing. </p>
+      <h3>useful links:</h3>
+      <p align=center><a href="http://bitconjurer.org/BitTorrent/introduction.html">Bittorrent</a>, 
+        introduction</p>
+      <p align=center><a href="http://azureus.sourceforge.net/">Azureus</a>: Java Bittorrent 
+        client</p>
+<h3> Other sections </h3>
+<center>
+<a href="about_me.htm"></a> <a href="cv.htm">[My CV]</a> <a href="http://uk.calendar.yahoo.com/shadprof"> 
+          [My calendar]</a> <a href="comp.htm">[Video compression]</a> <a href="cs.htm">[Cinema 
+          studies]</a> <a href="surfing.htm">[Surfing the World Wide Waves]</a> 
+          <a href="environm.htm">[Environmental Systems]</a> <a href="fs.htm">[Browse 
+          through this DVD collection]</a> <a href="whats.htm">[What's new to 
+          the site]</a> <a href="oldindex.htm">[The previous main page]</a> <a href="abweb.htm">[About 
+          this website]</a>[<a href="http://www.main-vision.com/forum">Discussion 
+          Forum</a>] 
+<p align="center"><a href="mailto:richard@main-vision.com">Contact me</a></font></td>
+</center>
+</body>
+</html>
