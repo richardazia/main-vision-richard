@@ -1,12 +1,18 @@
+console.log("I am the service worker")
+
 const precacheList = [
     "index.html",
+    "images/Pompei14.JPG",
     "10yr.htm",
     "12k.shtml",
     "404.htm",
     "about.htm",
+    "about_me.htm",
+    "csbook.htm",
     "environm.htm",
     "geo.htm",
     "me.htm",
+    "Media.htm",
     "mountain.htm",
     "stats.htm",
     "surfing.htm",
@@ -17,6 +23,7 @@ const precacheList = [
     "sw.js",
     "Rome.html",
     "romans.html",
+    "videotaking.htm",
     "whats.htm",
     "which.htm",
     "wifi.shtml",
