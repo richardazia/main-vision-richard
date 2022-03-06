@@ -1,4 +1,4 @@
-	BODY {
+BODY {
 	MARGIN-TOP: 70px; FONT-SIZE: 11px; MARGIN-LEFT: 80px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #D3D3D3
 }
 TD {
@@ -28,5 +28,31 @@ H3 {
 .textreg {
 	FONT-SIZE: 12px; COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
 }
+#gallery img {
+	width: 154px;
+	height: 118px;
+	border: 0px;
+	justify-content: center;
+}
+
+#gallery #vertical {
+	width: 118px;
+	height: 154px;
+	border: 0px;
+	justify-content: center;
+}
+
+#vertical-large {
+	width: 599px;
+	height: 800px;
+}
+
+.rotate90 { 
+	-webkit-transform:rotate(90deg); 
+	-moz-transform: rotate(90deg); 
+	-ms-transform: rotate(90deg); 
+	-o-transform: rotate(90deg); 
+	transform: rotate(90deg); 
+ } 
 
 
