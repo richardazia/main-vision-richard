@@ -1,6 +1,6 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <!-- this part of my website was on the school newspaper and has been moved to my own domain as I was the creator of these different texts.-->
-
 <head>
 <title>Surfing The World Wide Waves, a weekly article</title>
 <title>1st Page 2000</title>
@@ -21,8 +21,8 @@
 </head>
 <body>
 <h1>Surfing The World Wide Waves, a weekly article</h1>
-<h2>1st Page 2000</h2>
-<p>One of the most powerful free html editing softwares I have found is 
+  <h2>1st Page 2000</h2>
+    <p>One of the most powerful free html editing softwares I have found is 
               first page 2000 by <a href="http://www.evrsoft.com">EVRsoft</a>. 
               If you're tired of using frontpage which always loses your navigation 
               and adds so many extra tags why not begin experimenting with 1st 
@@ -60,9 +60,8 @@
             </p>
 <p>Articles by <a href="mailto:richard@main-vision.com?subject=&quot;World Wide Waves&quot;">Richard 
           Azia</a> unless otherwise indicated. </p>
-<center>
 <h3> Other sections </h3>
-          <a href="about_me.htm"></a> <a href="cv.htm">[My CV]</a> <a href="http://uk.calendar.yahoo.com/shadprof"> 
+          <a href="about_me.htm">About Me</a> <a href="cv.htm">[My CV]</a> <a href="http://uk.calendar.yahoo.com/shadprof"> 
           [My calendar]</a> <a href="comp.htm">[Video compression]</a>  <a href="cs.htm">Cinema studies</a> <a href="comp.htm">[Video 
           compression]</a> <a href="surfing.htm">[Surfing the World Wide Waves]</a> 
           <a href="environm.htm">[Environmental Systems]</a> <a href="fs.htm">[Browse 
