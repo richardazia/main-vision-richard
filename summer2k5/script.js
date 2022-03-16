@@ -119,4 +119,9 @@ console.log(images.image[0].name);  // to display the first image name
 //Loop through every image
 for (var i = 0; i < images.image.length; i++) {
    console.log(images.image[i].name);
+   var image = images.image[i].name;
+   var imageCaption = images.image[i].caption;
+   console.log(`I am <img src="images/${image}"> and my caption is ${imageCaption}`);
 }
+
+console.log(`And now I am just <img src=images/"${image}"> and my caption is ${imageCaption}`);
