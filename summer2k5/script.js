@@ -112,6 +112,11 @@ var images = {
    ]
 }
 
-console.log(images)
+console.log(images); // to see the object
+console.log(images.image.length);   to see the length of the array
+console.log(images.image[0].name);  to display the first image name
 
-var gallery = document.getElementById("gallery");
+//Loop through every image
+for (var i = 0; i < images.image.length; i++) {
+   console.log(images.image[i].name);
+}
