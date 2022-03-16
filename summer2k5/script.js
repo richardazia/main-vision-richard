@@ -113,8 +113,8 @@ var images = {
 }
 
 console.log(images); // to see the object
-console.log(images.image.length);   to see the length of the array
-console.log(images.image[0].name);  to display the first image name
+console.log(images.image.length);   // to see the length of the array
+console.log(images.image[0].name);  // to display the first image name
 
 //Loop through every image
 for (var i = 0; i < images.image.length; i++) {
